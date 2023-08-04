@@ -1,0 +1,62 @@
+site_name: More Peripherals
+repo_url: https://github.com/JheffersonMarques/MorePeripherals
+repo_name: MorePeripherals
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - Home : "index.md"
+  - Peripherals : 
+    - Anvil : "peripherals/anvil.md"
+    - Beehive Interface: "peripherals/beehive-interface.md"
+    - Crafter : "peripherals/crafter.md"
+    - Enchanting Table : "peripherals/enchanting-table.md"
+    - Ender Chest Interface : "peripherals/ender-chest-interface.md"
+    - Grinder : "peripherals/grinder.md"
+    - Grindstone : "peripherals/grindstone.md"
+    - Loom : "peripherals/loom.md"
+    - Magnetic Card Manipulator : "peripherals/magnetic-card-manipulator.md"
+    - Player Interface: "peripherals/player-interface.md"
+    - Spawner Interface: "peripherals/spawner-interface.md"
+    - Trading Interface: "peripherals/trading-interface.md"
+    - XP Bottler: "peripherals/xp-bottler.md"
+    - XP Collector: "peripherals/xp-collector.md"
+  - Items : 
+    - Player Card : "items/player-card.md" 
+    - Magnetic Card : "items/magnetic-card.md"
+    - Spawner Card : "items/spawner-card.md" 
+    - Keyboard : "items/keyboard.md" 
+    - Facade Tool : "items/facade-tool.md" 
+    - Magnet : "items/magnet.md"
+    - Ender Bag : "items/ender-bag.md" 
+  - Upgrades : 
+    - Ender Bag Upgrade: "upgrades/ender-bag-turtle.md"
+    - Magnetic Upgrade: "upgrades/magnetic-turtle.md"
+    - Solar Upgrade : "upgrades/solar-turtle.md"
+  - Induction Charger : "induction-charger.md"
+theme:
+  features:
+    - content.code.copy
+  name: material
+  logo: images/icon.png
+  icon:
+    repo: fontawesome/brands/github
+  favicon: images/icon.png
+  palette:
+    - scheme: light
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: dark
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
