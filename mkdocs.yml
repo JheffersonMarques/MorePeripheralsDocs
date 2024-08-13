@@ -26,6 +26,7 @@ nav:
     - Loom : "peripherals/loom.md"
     - Magnetic Card Manipulator : "peripherals/magnetic-card-manipulator.md"
     - Player Interface: "peripherals/player-interface.md"
+    - Scanner: "peripherals/scanner.md"
     - Spawner Interface: "peripherals/spawner-interface.md"
     - Trading Interface: "peripherals/trading-interface.md"
     - XP Bottler: "peripherals/xp-bottler.md"

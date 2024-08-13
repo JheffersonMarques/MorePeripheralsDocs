@@ -1,18 +1,18 @@
-# Ender chest interface
+# Magnetic Upgrade
 ---
 
 Allows for using the magnet in turtles
 
 | Functions | Description |
 | - | - |
-| [magnetize(distance)](#hasbees) | Check if bees are present on the hive |
+| [magnetize(distance)](#magnetizedistance) | Pulls items from distances using fuel |
 
 ### magnetize(distance)
 ---
 
 **Description**
 
-Store items from afar
+Pulls items from distances using fuel 
 
 > 💡 IMPORTANT
 >

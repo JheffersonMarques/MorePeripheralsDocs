@@ -1,4 +1,4 @@
-# Trading interface
+# XP Collector
 ---
 
 Store XP orbs around itself, and can also store player XP if right clicked

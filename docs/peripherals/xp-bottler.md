@@ -1,4 +1,4 @@
-# Trading interface
+# XP Bottler
 ---
 
 Allows players to store xp from a [XP Collector](xp-collector.md) into bottles

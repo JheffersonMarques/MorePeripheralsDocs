@@ -1,4 +1,4 @@
-# Ender Chest Interface
+# Enchanting Table
 ---
 
 Allows for automated enchanting and getting information about enchantments

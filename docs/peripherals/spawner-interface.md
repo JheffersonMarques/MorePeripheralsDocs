@@ -1,7 +1,7 @@
-# Spawner interface
+# Spawner Interface
 ---
 
-Allows for manipulating the contents of a player inventory and do some action as that player if there is a bound [Player Card](../items/player-card.md)
+Allows for manipulating spawners
 
 | Functions | Description |
 | - | - |

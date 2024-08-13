@@ -1,4 +1,4 @@
-# Player interface
+# Player Interface
 ---
 
 Allows for manipulating the contents of a player inventory and do some action as that player if there is a bound [Player Card](../items/player-card.md)
@@ -20,7 +20,7 @@ Makes the player eat an edible item in its inventory
 
 **Parameters**
 
-1. slot: number - The slot for the edible item item
+1. slot: number - The slot for the edible item
 
 
 **Returns**

@@ -1,6 +1,6 @@
 # Beehive Interface
 ---
-Permits retriving information about beehives, and also colleting either the honey comb, or honey bottles using any computer or turtle
+Allows retriving information about beehives, and also colleting either the honey comb, or honey bottles using any computer or turtle
 
 The Beehive Interface needs an Beehive or Nest in any of the sides of it to work.
 

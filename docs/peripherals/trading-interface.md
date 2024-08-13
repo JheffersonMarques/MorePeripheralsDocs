@@ -1,4 +1,4 @@
-# Trading interface
+# Trading Interface
 ---
 
 Allows for automatic trading and manipulation of some villager properties
